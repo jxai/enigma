@@ -1,4 +1,4 @@
-[Variables]
+﻿[Variables]
 
 ;-----------------------
 ; LAYOUT
@@ -9,9 +9,9 @@ Stylesheet=Enigma Dark
 ; WORLD
 
 ; Local Weather
-WeatherCodeName=New York, Stone Street Historic District, New York, United States of America
-WeatherCodeLat=40.712728
-WeatherCodeLon=-74.006015
+WeatherCodeName=San Francisco, CA
+WeatherCodeLat=37.774929
+WeatherCodeLon=-122.419418
 ; Units of measure. This must be one of the following lower case letters:
 ; e		This is "Imperial", using Fahrenheit.
 ; m		This is "Metric", using Celsius.
@@ -42,15 +42,15 @@ World2WeatherCodeUnit=m
 World2WeatherCodeLanguage=fr-FR
 
 ; 3rd World Weather
-World3WeatherCodeName=Melbourne, City of Melbourne, Victoria, 3000, Australia
-World3WeatherCodeLat=-37.814217
-World3WeatherCodeLon=144.963160
+World3WeatherCodeName=Beijing, China
+World3WeatherCodeLat=39.916668
+World3WeatherCodeLon=116.383331
 ; Units of measure. This must be one of the following lower case letters:
 ; e		This is "Imperial", using Fahrenheit.
 ; m		This is "Metric", using Celsius.
 ; h		This is "Hybrid", used primarily in the UK. Celsius for temperatures, but miles for distances.
 World3WeatherCodeUnit=e
-World3WeatherCodeLanguage=en-CA
+World3WeatherCodeLanguage=en-US
 
 ; Skin labels
 WindChill=Wind Chill
